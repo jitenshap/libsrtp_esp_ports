@@ -4,6 +4,8 @@ cmake_minimum_required(VERSION 3.5)
 set(SOURCES_C
   libsrtp/srtp/ekt.c
   libsrtp/srtp/srtp.c
+  libsrtp/crypto/cipher/cipher_test_cases.c
+  libsrtp/crypto/hash/auth_test_cases.c
 )
 
 
