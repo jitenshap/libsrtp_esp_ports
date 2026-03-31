@@ -1,4 +1,4 @@
 [submodule "libsrtp"]
 	path = libsrtp
 	url = https://github.com/jitenshap/libsrtp.git
-	branch = main
+	branch = master
